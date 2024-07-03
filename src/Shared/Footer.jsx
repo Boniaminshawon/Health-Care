@@ -4,7 +4,7 @@ import { TiSocialLinkedinCircular } from "react-icons/ti";
 const Footer = () => {
     return (
         <div className="">
-            <footer className="footer  text-white bg-indigo-950 px-14 py-20">
+            <footer className="footer  text-white bg-indigo-950 px-14 py-24">
                 <aside>
                     <img src={logo} alt="" />
                     <p>123 Main Street Anytown, USA</p>
